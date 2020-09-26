@@ -1,7 +1,6 @@
 # app.rb
 require "sinatra"
 require "line/bot"
-require "dotenv/load"
 require "open-uri"
 require "dotenv/load" if development?
 
