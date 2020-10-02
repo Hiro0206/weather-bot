@@ -6,6 +6,7 @@ gem 'rest-client'
 gem 'line-bot-api'
 gem 'rufo'
 gem 'rake'
+gem 'byebug'
 
 group :development do
   gem 'dotenv'
